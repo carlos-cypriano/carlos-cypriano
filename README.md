@@ -1,6 +1,6 @@
-### Hi there, my name is Carlos Lucas de Oliveira Cypriano and I'm a Technologist in Digital Gaming and also I'm a Full Stack Web Developer 👋
+### Hi there, my name is Carlos Lucas de Oliveira Cypriano, I'm a Technologist in Digital Gaming and also I'm a Full Stack Web Developer 👋
 
-- 🔭 I’m currently my major is Technologist in Digital Games on Instituto Federal do Rio de Janeiro - Campus Engenheiro Paulo de Frontin
+- 🔭 Actually my major is Technologist in Digital Games on Instituto Federal do Rio de Janeiro - Campus Engenheiro Paulo de Frontin
 - 🌱 I’m currently learning Full Stack Web Development
 - 😄 Pronouns: He/His
 
