@@ -3,6 +3,7 @@
 - 🔭 Currently my major is Technologist in Digital Games at Instituto Federal do Rio de Janeiro - Campus Engenheiro Paulo de Frontin
 - 🌱 I'm currently learning Full Stack Web Development
 - 😄 Pronouns: He/His
+- Sorry for my README document, I'm tidying it up, but I'll to detail more in the future.
 
 <div align="center">
   <a href="https://github.com/carlos-cypriano">
