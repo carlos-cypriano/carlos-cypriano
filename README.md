@@ -1,6 +1,6 @@
-### Hi there, my name is Carlos Lucas de Oliveira Cypriano, I'm a Technologist in Digital Gaming and also I'm a Full Stack Web Developer 👋
+### Hey there, my name is Carlos Lucas de Oliveira Cypriano, I'm a Technologist in Digital Gaming and also I'm a Full Stack Web Developer 👋
 
-- 🔭 Currently my major is Technologist in Digital Games at Instituto Federal do Rio de Janeiro - Campus Engenheiro Paulo de Frontin
+- 🔭 Currently my major is Technologist in Digital Games at the Instituto Federal do Rio de Janeiro - Campus Engenheiro Paulo de Frontin
 - 🌱 I'm currently learning Full Stack Web Development
 - 😄 Pronouns: He/His
 - Sorry for my README document, I'm tidying it up, but I'll to detail more in the future.
@@ -35,7 +35,9 @@
      <br />
       <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
       <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">        <br />
+      <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
+  <br />
  <br />
  </kbd>
   </div>
